@@ -13,7 +13,7 @@ void moveZeros(int *arr, int n){
 }
 
 int main() {
-    int arr[] = {0,1,2,3,0,0,1};
+    int arr[] = {2,1,2,3,0,0,1};
     int n = 7;
     
     moveZeros(arr, n);
